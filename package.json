@@ -1,0 +1,46 @@
+{
+    "name": "datatables.net-bs5",
+    "description": "DataTables for jQuery with styling for [Bootstrap5](https://getbootstrap.com/)",
+    "main": "js/dataTables.bootstrap5.js",
+    "style": "css/dataTables.bootstrap5.css",
+    "version": "1.10.24",
+    "files": [
+        "css/**/*.css",
+        "js/**/*.js",
+        "images/*"
+    ],
+    "keywords": [
+        "Bootstrap",
+ "Bootstrap5",
+        "Datatables",
+        "jQuery",
+        "table",
+        "filter",
+        "sort"
+    ],
+    "dependencies": {
+        "datatables.net": ">=1.10.24",
+        "jquery": ">=1.7"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DataTables/Dist-DataTables-Bootstrap5.git"
+    }
+}
