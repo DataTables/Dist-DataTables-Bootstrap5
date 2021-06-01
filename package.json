@@ -3,6 +3,7 @@
     "description": "DataTables for jQuery with styling for [Bootstrap5](https://getbootstrap.com/)",
     "main": "js/dataTables.bootstrap5.js",
     "style": "css/dataTables.bootstrap5.css",
+    "types": "./types/dataTables.bootstrap5.d.ts",
     "version": "1.10.24",
     "files": [
         "css/**/*.css",
