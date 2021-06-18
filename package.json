@@ -4,7 +4,7 @@
     "main": "js/dataTables.bootstrap5.js",
     "style": "css/dataTables.bootstrap5.css",
     "types": "./types/dataTables.bootstrap5.d.ts",
-    "version": "1.10.25",
+    "version": "1.1.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -12,7 +12,7 @@
     ],
     "keywords": [
         "Bootstrap",
- "Bootstrap5",
+        "Bootstrap5",
         "Datatables",
         "jQuery",
         "table",
