@@ -4,7 +4,7 @@
     "main": "js/dataTables.bootstrap5.js",
     "style": "css/dataTables.bootstrap5.css",
     "types": "./types/dataTables.bootstrap5.d.ts",
-    "version": "1.10.24",
+    "version": "1.10.26-dev",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -20,7 +20,7 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net": ">=1.10.24",
+        "datatables.net": ">=1.10.26-dev",
         "jquery": ">=1.7"
     },
     "moduleType": [
