@@ -1,5 +1,5 @@
 /*! DataTables Bootstrap 5 integration
- * 2020 SpryMedia Ltd - datatables.net/license
+ * © SpryMedia Ltd - datatables.net/license
  */
 
 import jQuery from 'jquery';
@@ -10,8 +10,7 @@ let $ = jQuery;
 
 
 /**
- * DataTables integration for Bootstrap 5. This requires Bootstrap 5 and
- * DataTables 2 or newer.
+ * DataTables integration for Bootstrap 5.
  *
  * This file sets the defaults and adds options to DataTables to style its
  * controls using Bootstrap. See https://datatables.net/manual/styling/bootstrap
