@@ -447,6 +447,9 @@ div.dt-container div.dt-layout-table > div {
     margin-left: 0;
   }
 }
+div.dt-container {
+  position: relative;
+}
 div.dt-container div.dt-length label {
   font-weight: normal;
   text-align: left;
