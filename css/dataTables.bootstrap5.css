@@ -538,19 +538,19 @@ table.dataTable.table-sm > thead > tr td.dt-orderable-asc,
 table.dataTable.table-sm > thead > tr td.dt-orderable-desc,
 table.dataTable.table-sm > thead > tr td.dt-ordering-asc,
 table.dataTable.table-sm > thead > tr td.dt-ordering-desc {
-  padding-right: 4px;
+  padding-right: 0.25rem;
 }
 table.dataTable.table-sm > thead > tr th.dt-orderable-asc span.dt-column-order, table.dataTable.table-sm > thead > tr th.dt-orderable-desc span.dt-column-order, table.dataTable.table-sm > thead > tr th.dt-ordering-asc span.dt-column-order, table.dataTable.table-sm > thead > tr th.dt-ordering-desc span.dt-column-order,
 table.dataTable.table-sm > thead > tr td.dt-orderable-asc span.dt-column-order,
 table.dataTable.table-sm > thead > tr td.dt-orderable-desc span.dt-column-order,
 table.dataTable.table-sm > thead > tr td.dt-ordering-asc span.dt-column-order,
 table.dataTable.table-sm > thead > tr td.dt-ordering-desc span.dt-column-order {
-  right: 4px;
+  right: 0.25rem;
 }
 table.dataTable.table-sm > thead > tr th.dt-type-date span.dt-column-order, table.dataTable.table-sm > thead > tr th.dt-type-numeric span.dt-column-order,
 table.dataTable.table-sm > thead > tr td.dt-type-date span.dt-column-order,
 table.dataTable.table-sm > thead > tr td.dt-type-numeric span.dt-column-order {
-  right: 4px;
+  right: 0.25rem;
 }
 
 div.dt-scroll-head table.table-bordered {
