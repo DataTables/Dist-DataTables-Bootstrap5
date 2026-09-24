@@ -36,9 +36,10 @@
     "exports": {
         ".": {
             "types": "./types/dataTables.bootstrap5.d.ts",
+            "style": "./css/dataTables.bootstrap5.css",
             "import": "./js/dataTables.bootstrap5.mjs",
-            "default": "./js/dataTables.bootstrap5.mjs",
-            "require": "./js/dataTables.bootstrap5.js"
+            "require": "./js/dataTables.bootstrap5.js",
+            "default": "./js/dataTables.bootstrap5.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
